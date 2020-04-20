@@ -1,1 +1,1 @@
-web: yarn start --domain $LOCALTUNNEL_DOMAIN
+web: yarn start --domain $LOCALTUNNEL_DOMAIN --port $PORT
